@@ -68,3 +68,11 @@ workon crits
 git clone https://github.com/krmaxwell/maltrieve.git
 pip install feedparser grequests bs4 python-magic requests
 ```
+#Sources for Intelligence
+(some assembly required)
+
+The following are decent places to find intelligence that could be imported into CRITs:
+*http://malc0de.com/database/
+*https://otx.alienvault.com/
+*https://intel.criticalstack.com/
+*https://www.virustotal.com/en/documentation/public-api/
