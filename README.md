@@ -35,7 +35,7 @@ mkdir -p /data/db /data/logs
 chown -R ckane /data
 ```
 
-Initialize database environments with CRITs data:
+Initialize database environments with CRITs data, and add admin user:
 ```
 bash script/bootstrap 4
 ```
@@ -55,6 +55,12 @@ Start CRITS:
 cd ~/src/crits
 bash ./script/server
 ```
+
+In the CRITs Control Panel, you'll want to do the following:
+* Enable API
+* Add source names for sources you'll get intelligence from
+* Add these sources to the user you are logging in as
+* Set the path for CRITs services (and restart CRITs)
 
 #Install Maltrieve
 ```
