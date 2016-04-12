@@ -2,6 +2,11 @@ Make sure you have the following installed:
 *Python 2.7.x
 *MongoDB	2.6.x
 
+Pull this down:
+```
+git clone https://github.com/ckane/revolutionuc-cybersecurity.git
+```
+
 On Ubuntu:
 ```
 apt-get install mongodb-server zip p7zip-full p7zip-rar libjpeg-dev
