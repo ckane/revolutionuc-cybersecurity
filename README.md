@@ -1,7 +1,7 @@
 #Preparation
 Make sure you have the following installed:
-*Python 2.7.x
-*MongoDB	2.6.x
+* Python 2.7.x
+* MongoDB	2.6.x
 
 Pull this down:
 ```
