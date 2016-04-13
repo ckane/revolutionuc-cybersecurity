@@ -9,6 +9,10 @@ git clone https://github.com/ckane/revolutionuc-cybersecurity.git
 ```
 
 #Install CRITs
+
+CRITs Documentation:
+* https://github.com/crits/crits/wiki
+
 On Ubuntu:
 ```
 apt-get install mongodb-server zip p7zip-full p7zip-rar libjpeg-dev
